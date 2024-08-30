@@ -31,7 +31,7 @@ O projeto **Hamburgueria** é uma aplicação web interativa para gerenciar um c
 1. **Clone o repositório:**
 
    ```bash
-   git clone https://github.com/usuario/hamburgueria.git
+   git clone https://github.com/usuario/hamburgueria.git](https://github.com/Kaio-0708/Vi-Burguer
    cd hamburgueria
 2. **Abra o arquivo `index.html` em um navegador.**
 
